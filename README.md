@@ -4,6 +4,9 @@ Recriar uma página pública de sua cidade corrigindo os problemas visuais.
 ## site público recriado
 https://www.saobernardo.sp.gov.br/web/coronavirus
 
+## link para o protótipo no figma
+https://www.figma.com/file/O7dcihcWKEPaUE7ydUyW62/Re-design-do-site-vacina-SBC?node-id=0%3A1
+
 ## mudanças
 1. Os menus do site estão muito repetitivos, então concentrei tudo no menu superior horizontal
 2. Os botões de redirecionamento estão meio confusos e sem explicações. O design foi refeito em modelo de passo a passo com cards.
